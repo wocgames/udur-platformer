@@ -3,13 +3,11 @@
   <name>Platformer Engine</name>
   <version>1.4.5</version>
   <packageID>com.wlewis.platformerengine</packageID>
-  <ProductID>F3D00DAD3DDB83EFFDD568E8093FC7AA</ProductID>
+  <ProductID></ProductID>
   <date>27/10/16</date>
   <license>Free to use, also for commercial games.</license>
   <description></description>
   <helpfile></helpfile>
-  <androidProps>0</androidProps>
-  <iosProps>0</iosProps>
   <installdir></installdir>
   <classname></classname>
   <androidclassname></androidclassname>
@@ -25,6 +23,11 @@
   <gradleinject></gradleinject>
   <iosSystemFrameworks/>
   <iosThirdPartyFrameworks/>
+  <ConfigOptions>
+    <Config name="Default">
+      <CopyToMask>743555274</CopyToMask>
+    </Config>
+  </ConfigOptions>
   <androidPermissions/>
   <IncludedResources>
     <Resource>Sprites\Characters\sprPlayerIdle</Resource>
